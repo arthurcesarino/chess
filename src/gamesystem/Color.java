@@ -1,4 +1,4 @@
-package game;
+package gamesystem;
 
 public enum Color {
     BLACK,

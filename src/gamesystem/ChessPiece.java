@@ -1,4 +1,4 @@
-package game;
+package gamesystem;
 
 import boardgame.Board;
 import boardgame.Piece;
